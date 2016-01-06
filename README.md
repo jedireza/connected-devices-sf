@@ -3,7 +3,7 @@
 Welcome to the Connected Devices San Francisco chapter's repository. We use
 this repository for our website and almost all our communication.
 
-You can see the website here: http://connected-devices.github.io/sanfrancisco/
+You can see the website here: http://connecteddevices.io/sanfrancisco/
 
 
 ## Talk to us
