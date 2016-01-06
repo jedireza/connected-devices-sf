@@ -12,9 +12,6 @@ body {
   font-family: 'Varela Round', sans-serif;
   border-bottom: 1px solid #ccc;
 }
-.navbar-inverse {
-  background-color: #ff0000;
-}
 .navbar-inverse .navbar-brand {
   color: #fff;
 }
