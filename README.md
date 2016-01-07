@@ -16,6 +16,7 @@ reason you need to contact an organizer privately you may contact us directly.
 
 ## Team
 
+ - Lindsay Saunders, [GitHub](http://github.com/lrsaunders/)
  - Reza Akhavan, [GitHub](https://github.com/jedireza/),
    [Twitter](https://twitter.com/jedireza/), [Email](mailto:jedireza@gmail.com)
 
